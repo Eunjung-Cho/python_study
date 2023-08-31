@@ -1,5 +1,8 @@
 
 # EDA WITH PYTHON 
+---
+studying source from : https://www.udemy.com/course/python-for-statistical-analysis/
+---
 
 #### **EDA란 : Exploratory Data Analsis 탐색적 데이터 분석**
 - 데이터를 시각적으로 탐색
